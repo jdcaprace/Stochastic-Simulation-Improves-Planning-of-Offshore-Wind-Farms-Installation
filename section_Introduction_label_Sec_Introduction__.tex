@@ -1,0 +1,74 @@
+\section{Introduction}
+\label{Sec-Introduction}
+%Contextualization - Present the research field and show the importance of the main area. Make terms and processes familiar.  Evidencing recent research and findings. Recently there have been significant advances in ...
+\textbf{Contextualization} --
+Offshore Wind Farm (OWF) is an emerging technology in the wind energy conversion system. These wind resources are abundant, stronger, and are more consistent in terms of their availability than land-based wind resources. As a matter of fact significantly higher energy production is achieved due to larger wind turbine ratings and stronger wind profiles, \cite{Sun2012298}. Numerous OWFs are commonly built in comparatively high water depth (20 to 50 meters) and far distances (30 to 100 kilometers) from shore. Higher wind speeds, waves and the salty air contribute to the harmful environment at sea that significantly reduces the accessibility of an OWFs, \cite{Smit2007}.
+
+Facing these constraints, OWFs have to grow in size in order to be profitable ($\geq 5$ MW, i.e. $\sim600-1000$ new wind turbines per year), \cite{EWEA2011} and \cite{Kaldellis2013}. This implies serious financial, technical and logistical effort. Due to the rise of the size of the offshore components, logistical challenges arise, which often induce immense costs.
+
+Table \ref{TableTypicalCost} shows the typical cost breakdown of both, onshore and OWFs, compiled and adapted from \cite{Henderson2003}, \cite{Junginger2004}, \cite{UK10}, \cite{TCE12}, \cite{IRENA12}. As shown, most of the investment cost are related with acquisition of wind farms including wind turbines, electrical infrastructure and civil engineering work. Nevertheless, for OWFs, the installation and transport costs of an offshore wind energy plant can vary between 5\% to 30\% of the total cost and likely reach 20\%. Therefore, the risks of over-costs and delays at the construction site, transport chain, production and storage should be carefully controlled.
+
+\begin{table}[!hbp]
+\caption{Typical initial-cost breakdown of a wind farm in \%, \cite{Henderson2003}, \cite{Junginger2004}, \cite{UK10}, \cite{TCE12}, \cite{IRENA12}}
+\begin{center}
+\include{TableCost}
+\end{center}
+\label{TableTypicalCost}
+\end{table}
+
+%State the gap - Open Questions. Restrictions and limitations. Nevertheless, key challenges must be addressed in order to find ...., Traditional localization techniques are not well suited for these requirements, ... is cost and energy prohibitigve ..., for many applications it is not sufficiently robust, ... it is limited to ..., One common drawback of the ..., The ... problem has been an open problem of intrest since 1995 ...
+\textbf{Gap} --
+In addition, weather is in this case a major additional risk factor, which plays a meaningful role in the preparation and installation of wind plants at sea. This can lead to extensive project delays of several months. All currently known mounting techniques can only be performed in calm sea. In this context, important criteria are wave height and wind speed. With a significant wave height of more than 1.5 meter and/or wind speed of 17 m/s at 10 meter of altitude, installation and transport of material at sea will generally be stopped, \cite{aitsimulation}.
+
+In parallel, the dimensions and weight of the components involved make the transport and storage of the components difficult. The main transport problems arise with scarce crane capacities and spatially limited transport permit, while storage problems arise when leasing of docks and storage areas are negotiated with port authorities. New large components, e.g. blades of more than 120 meters length, often cannot be transported properly. Sometimes total weight exceeds vehicles capacities.
+
+Novel logistical problems for the control of supply chains arise from the influences of specific parameters like campaign-based planning, short-term scheduling due to meteorological influences and constraints on scarce and costly resources.
+
+%Show the state of the art - Recently they have been significant advances in ..., Previous research in this area has focused on ...
+\textbf{State of the art} --
+Research on OWFs, which until now has been carried out by various institutions, were mainly based on the technical challenges in the design and manufacture of the facilities, \cite{Miller2013}, \cite{SerranoGonzalez2014}, \cite{Perveen2014}. Nevertheless, there is only little research that addresses logistical problems in production, installation, operation, maintenance (spare parts logistics) and disassembly (reverse logistics) of offshore facilities, \cite{Scholz2010}, \cite{Lange2012}, \cite{COMPIT11}, \cite{COMPIT12}, \cite{aitsimulation}, \cite{thalji2012}.
+
+Recently they have been significant advances in Operation and Maintenance (O\&M) while, in contrast, few publications address the logistical problem of manufacturing and installation of OWFs.
+
+%O&M
+\cite{dinwoodie2013} developed an econometric O\&M model to determine where different operational choices represent the cost optimal solution. The sensitivity of operational strategies to OWFs size, failure rate of major components and weather conditions have been examined. A multivariate Auto-Regressive climate model were used. This methodology maintains seasonality and correlation between wind and wave time series. However the model fail to capture outliers and data behaviour over 17 $m/s$.
+
+
+\cite{Hagen2013} and \cite{scheu2012} ....
+
+
+
+Typian et al. provided a comparison study of two different mathematical methods for estimating weather downtime and operation times using the Markov Theory and Monte Carlo Simulation, \cite{Tyapin2011}. However this approach is limited to one offshore wind turbine and focuses on operation control.
+
+
+
+
+A real scheduling approach was given by \cite{Scholz2010}, who developed a heuristic for the scheduling of offshore installation processes. The current weather situations as well as transport capacity limits of the installation vessel were considered.
+
+
+
+\cite{ISOPE2012} presented a further going approach for offshore scheduling, which also integrated the inventory control and supply of the installation port.
+
+
+
+
+\cite{Hofmann2014} ...
+
+
+
+The problem of offshore maintenance scheduling was treated by \cite{Kovacs2011497}, who developed a mixed-integer program (MIP), which constituted a module of an integrated framework for condition monitoring, diagnosis and maintenance. The idea of this approach is to find the best time for maintenance operations in relation to performance of the wind turbine and the availability of the service capacities.
+
+The planning and scheduling problem of OWFs considering weather data belongs to the NP-hard problems (Non-deterministic Polynomial-time hard), \cite{leeuwen1990}. It explains why no suitable planning tools for the installation of offshore equipments has been introduced in the literature up to now. 
+
+Nevertheless, models in literature show some interesting aspects to the installation planning of OWFs using statistical approaches, but do not consider real weather data. The present paper, unlike other research work, presents a DES of the installation of OWFs that is using real weather data of a specific site. This makes the results of the simulation way more precise and allows to validate other simulations results that are using imprecise seasonal weather forecasts. Since the methodology rely on real weather data, the planning tool may be used during the operational phase of constructing or operating a wind farm. Thus it would be used as a day to day simulator in order to support real-time decisions.
+
+%State the importance of your study
+\textbf{Importance} --
+In consequence, the development of sustainable installation procedures taking into account long distances and special challenges of maritime transport is required. The simulation of different installation strategies can support the planning process and reduce the risks of assembling OWFs. The model should be able to take into account the effects of weather on the installation cycle, to assess the likelihood of delays of a certain process and to propose alternatives to minimize the effects of these delays. By evaluating different sets of weather data, the over-all installation process can be optimized with respect to shortest installation times and highest robustness of the schedule.
+
+%State the purpose of the paper - Here, we report as new ..., In this paper we describe ..., In this paper we attempt to adress the need to ...
+\textbf{Purpose} --
+In this paper, a Discrete Event Simulation (DES) of OWFs installation have been developed using weather dependant transport and installation at sea. The originality of the model is to use real offshore weather data in order to quantify accurately the transport and installation risks of an European specific site.
+
+
+>>>>>>merge with vessel for the future document
