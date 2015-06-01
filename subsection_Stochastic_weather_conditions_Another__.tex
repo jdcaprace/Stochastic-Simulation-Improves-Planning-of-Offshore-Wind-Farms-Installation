@@ -1,0 +1,31 @@
+\subsection{Stochastic weather conditions}
+Another aspect concerns the effects of weather uncertainties that have a major importance upon the process of installation of offshore wind turbines, \cite{COMPIT11}. The jacking process of an offshore vessel can only be executed up to a certain wave height and wind speed. Moreover, it is important to note that certain weather parameters can have an impact on certain process parameters. The speed of a ship depends on the wave height or good weather conditions will increase the amount of components that can be loaded on board the vessels. At the moment, the offshore companies plan to install the foundations during the period between autumn and spring, and to assemble the nacelles and rotors during the summer. Because of the seasonal weather changes, it is hard to predict the efficiency and associated risks of the installation strategies.
+
+Weather predictions and numerical weather forecasts can be calculated with different models. However, the reliable weather predictions are mostly provided for a period of approximately a maximum of 14 days, \cite{hinnenthal2007}. This is obviously not appropriated for a long-term scheduling.
+
+Beyond that, seasonal weather forecasts exist. They are based on historical data and give ideas such as average wind speeds, temperatures and rain falls in these periods. Based on these long-term forecasts, it can be predicted that in winter the probability of days with good weather conditions is significantly less than in summer. Nevertheless, experiences of OWFs installation show that the reliability of this kind of long-term forecast is not enough for planning. Therefore, accurate forecast (short term) should be used in order to get enough accuracy.
+
+In order to overcome these issues and to consider that weather conditions can vary significantly from one offshore site to another, the model presented in this paper is using real offshore weather data measured every 10 minutes for the last decade.  
+%Aggregation of the data will be possible per hour and per day.
+These measurements are related to the following parameters:
+\begin{itemize}
+\item Time step [2000-01-01 20:20:20];
+\item Average wind speed at the first altitude in m/s;
+\item Average wind speed at the second altitude in m/s;
+\item Average wave height in meters.
+\end{itemize}
+
+Weather restrictions can be defined for resources, processes and components in the model. For example, seagoing specialized vessels like jack-up barges or other installation units are characterized by weather constraints, see Table \ref{TableWorkability}. Depending on wind force or wave height, or both, the vessel might not be allowed to leave the port and start its journey to the OWF although the loading process is completed. Having arrived at its destination at sea, processes like the installation of each component of a wind turbine can be delayed too.
+
+Additionally to these criteria, a "time window" concept was defined for the utilization of the resources. It is defined by the amount of time in which the weather parameters will allow the process to occur under safe weather conditions. This time window was implemented for each transport resource shown in Table \ref{TableWorkability}.
+
+A "workability" criterion has been defined for each resources based on measured weather data and criteria defined in Table \ref{TableWorkability}. This parameter verifies whether or not an activity can be started at a certain date. If the weather parameter (wind speed or wave height) doesn't exceed the working limits during the defined time window, the activity can be started. Otherwise, the activity will be delayed until favourable weather conditions are appearing.
+
+\begin{table}[!hbp]
+\caption{Criteria giving the weather conditions over which it is no longer possible to use certain resources}
+\begin{center}
+\include{TableWorkability}
+\end{center}
+\label{TableWorkability}
+\end{table}
+
