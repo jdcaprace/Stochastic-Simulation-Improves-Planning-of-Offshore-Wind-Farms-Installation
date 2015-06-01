@@ -16,4 +16,3 @@ section_Validation_and_results_After__.tex
 section_Conclusions_Various_projects_of__.tex
 Paper_Preparation.tex
 figures/eijkel2/default_figure.png
-formulas.tex
