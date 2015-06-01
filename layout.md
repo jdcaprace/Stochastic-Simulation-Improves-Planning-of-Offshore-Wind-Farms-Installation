@@ -4,9 +4,9 @@ begin_table_hbp_caption_Typical__.tex
 section_Justification_of_the_research__.tex
 section_Challenges_of_offshore_wind__.tex
 subsection_Wind_turbine_components_An__.tex
+figures/WindTurbineComponents/WindTurbineComponents.jpg
 subsection_Stochastic_weather_conditions_Another__.tex
 subsection_Disturbance_of_the_material__.tex
-figures/WindTurbineComponents/WindTurbineComponents.jpg
 figures/Foundations/Foundations.jpg
 Paper_Preparation.tex
 figures/eijkel2/default_figure.png
