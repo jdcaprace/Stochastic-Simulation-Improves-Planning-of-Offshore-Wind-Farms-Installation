@@ -1,5 +1,5 @@
 Introduction_.tex
-Paper_titles_begin_itemize_item__.tex
+Paper_titles_options_begin_itemize__.tex
 section_Reviewer_comments_Reviewer_1__.tex
 section_Introduction_label_Sec_Introduction__.tex
 begin_table_hbp_caption_Typical__.tex
