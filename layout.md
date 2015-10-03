@@ -17,4 +17,5 @@ begin_table_hbp_caption_Summary__1.tex
 section_Validation_and_results_After__.tex
 figures/Picture2/Picture2.png
 figures/Picture1/Picture1.png
+figures/Picture3/Picture3.png
 section_Conclusions_Various_projects_of__.tex
