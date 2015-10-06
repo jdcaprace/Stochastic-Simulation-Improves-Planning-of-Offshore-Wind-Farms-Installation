@@ -21,6 +21,7 @@ subsection_Probabilistic_approach__.tex
 figures/Picture2/Picture2.png
 figures/Picture1/Picture1.png
 subsection_Effect_of_installation_strategies__.tex
+figures/Picture6/Picture6.png
 subsection_Effect_of_the_number__.tex
 figures/Picture5/Picture5.png
 section_Conclusions_Various_projects_of__.tex
