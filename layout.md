@@ -22,4 +22,5 @@ figures/Picture2/Picture2.png
 figures/Picture1/Picture1.png
 subsection_Effect_of_installation_strategies__.tex
 subsection_Effect_of_OWT_to__.tex
+figures/Picture5/Picture5.png
 section_Conclusions_Various_projects_of__.tex
