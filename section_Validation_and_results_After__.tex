@@ -1,26 +1,2 @@
-\section{Validation and results}
-After all the parameters related to the processes, resources and constraints are included in the model, the simulation can be launched. Tab. \ref{TableInput} summarizes the input parameters used for the simulation. The installation of 60 wind turbines has been simulated  using one transport ship for turbine components from production site to assembly site, one jack-up vessel for the jacket foundations transport and installation, one jack-up vessel for the wind turbine components installation and one jack-up vessel for pre-piling of the jacket foundations.
-
-As explained, a scenario has to be simulated a number of times as shown in Fig. \ref{FigureSimulationModel}. It means that each time we run the simulation the value of a specific process will be different from the one found in previous simulation, within the range of the defined standard deviation. Thereafter a second loop is applied altering the starting date of the project in order to cover all the measured weather data available in the database.
-
-Practically, 10 local iterations for each year from 1994 to 2006 have been performed considering the installation starting date of 1st of April of each year, which corresponds to a total of 130 simulations. The total duration of the simulation runs for 10 simulations with the same starting date is about 90 minutes. Our experience with OWFs simulation shows that the gathering of the input data and the coordination of the processes in the planning phase is very time consuming and extensive, as no standardized processes exists. Thus, the running time of the tool has no impacts on the assessment of real OWFs planning.
-
-After running the simulations both, a lead time line graph (see Fig. \ref{FigureLeadTime}) and several Gantt charts (see Fig. \ref{FigureGantt1}) are generated.
-
-Fig. \ref{FigureLeadTime} represents the variation of the lead time (in days) for the installation of 60 wind turbines depending of stochastic cycle times and weather conditions considering different years of project execution. The results show that lead time is practically doubling between the best (2003) and the worst year (1999) while the maximum variability between extreme values for local iterations is equal to 54 days. This is mainly due to the fact that weather windows are too small to start the work during winter of 1999.   
-
-
-Fig. \ref{FigureGantt1} shows the sequences of operations during the installation of 60 wind turbines for 1994, 1999, 2003 and 2006. White colour represents the waiting times, while black colour represents working activities (loading, unloading, assembling, transfer, driving, etc.) and light grey transporting activities. 
-
-Current version of the model supports the transport and installation of the piles for the jackets called "pre-piling", the transport and installation of the jacket foundation, the transport of the turbine components from production site to assembly site, the assembly of the rotor on-shore, the transport of turbine components from assembly site to installation site and finally the installation of the turbines. The first results have shown that the installation vessels are to be considered the bottlenecks of the model.
-
-Referring to the year 1999, Fig. \ref{FigureGantt1} shows that installation activities have been stopped for several months during the winter season that is causing a lead time of almost 480 days in order to complete the project. That means that the installation should be planned in two phases in that case. By comparison, in 2003, the project can be completed in only one phase in about 250 days.
-
-Fig. \ref{FigureGantt1} can also provide information about the cycle time between each turbine installation and especially any downtime towards the due date of the project. For instance, in 2006, if the last turbine installation could be carried out somehow next to the previous one, without a time gap between them, a number of days (more than 20 days) could be recovered with a significant cost benefit.
-
-The industrial partner that provided the input data has validated the results. Firstly, the simulated lead time is in the range of the real project duration, which proves that the weather data has been implemented in a correct fashion. 
-Secondly, Fig. \ref{FigureGantt1} shows that in almost all the years the project has been stopped during the winter months, splitting the project in two phases. This behaviour has a correspondence in the real planning as well.
-
-Thanks to the simulation it is possible to measure the impact of disturbing factors to the entire logistics chain, and thus the total logistic costs. By altering cycle time distributions, weather input data, adding resources or changing the storage capacity, ships and storage areas, different installation strategies can be compared.
-
-
+\section{Results and discussion}
+This section is dedicated to analyze the simulation results obtained after running the developed simulation model with different input parameters. Both probabilistic approach and weather historical time series are considered. Then results are compared and discussed.
