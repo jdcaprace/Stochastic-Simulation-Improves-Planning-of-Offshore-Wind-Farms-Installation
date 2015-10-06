@@ -13,6 +13,7 @@ subsection_Methodology_The_development_of__.tex
 figures/SimulationModel/SimulationModel.jpg
 begin_table_hbp_caption_Summary__.tex
 begin_table_hbp_caption_Summary__1.tex
+figures/Map1/Map1.png
 section_Results_and_discussion_This__.tex
 figures/Picture2/Picture2.png
 figures/Picture1/Picture1.png
