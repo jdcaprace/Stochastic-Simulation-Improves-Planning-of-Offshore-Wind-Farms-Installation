@@ -17,7 +17,7 @@ figures/Map1/Map1.png
 section_Results_and_discussion_This__.tex
 subsection_Weather_historical_time_series__.tex
 figures/Picture3/Picture4.png
-subsection_Probabilistic_approach__.tex
+subsection_Probabilistic_approach_The_probabilistic__.tex
 figures/Picture2/Picture2.png
 figures/Picture1/Picture1.png
 subsection_Effect_of_installation_strategies__.tex
