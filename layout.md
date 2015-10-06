@@ -17,5 +17,5 @@ figures/Map1/Map1.png
 section_Results_and_discussion_This__.tex
 figures/Picture2/Picture2.png
 figures/Picture1/Picture1.png
-figures/Picture3/Picture3.png
+figures/Picture3/Picture4.png
 section_Conclusions_Various_projects_of__.tex
