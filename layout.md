@@ -20,4 +20,5 @@ figures/Picture3/Picture4.png
 subsection_Probabilistic_approach__.tex
 figures/Picture2/Picture2.png
 figures/Picture1/Picture1.png
+subsection_Effect_of_installation_strategies__.tex
 section_Conclusions_Various_projects_of__.tex
