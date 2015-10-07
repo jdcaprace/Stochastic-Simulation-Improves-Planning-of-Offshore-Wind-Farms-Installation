@@ -8,6 +8,7 @@ figures/WindTurbineComponents/WindTurbineComponents.jpg
 Show_the_state_of_the__.tex
 State_the_importance_of_your__.tex
 State_the_purpose_of_the__.tex
+figures/Map1/Map1.png
 section_Challenges_of_offshore_wind__.tex
 subsection_Wind_turbine_components_An__.tex
 subsection_Stochastic_weather_conditions_Another__.tex
@@ -16,7 +17,6 @@ subsection_Methodology_The_development_of__.tex
 figures/SimulationModel/SimulationModel.jpg
 begin_table_label_tab_input__.tex
 begin_table_begin_center_label__.tex
-figures/Map1/Map1.png
 section_Results_and_discussion_This__.tex
 subsection_Weather_historical_time_series__.tex
 figures/Picture3/Picture4.png
