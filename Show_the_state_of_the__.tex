@@ -1,47 +1,3 @@
-%Show the state of the art - Recently they have been significant advances in ..., Previous research in this area has focused on ...
-\textbf{State of the art} --
-Research on OWFs, which until now has been carried out by various institutions, were mainly based on the technical challenges in the design and manufacture of the facilities, \cite{Miller2013}, \cite{SerranoGonzalez2014}, \cite{Perveen2014}. Nevertheless, there is only little research that addresses logistical problems in production, installation, operation, maintenance (spare parts logistics) and disassembly (reverse logistics) of offshore facilities, \cite{Scholz2010}, \cite{Lange2012}, \cite{COMPIT11}, \cite{COMPIT12}, \cite{aitsimulation}, \cite{thalji2012}.
-
-Recently they have been significant advances in Operation and Maintenance (O\&M) while, in contrast, few publications address the logistical problem of manufacturing and installation of OWFs.
-
-%O&M
-\cite{dinwoodie2013} developed an econometric O\&M model to determine where different operational choices represent the cost optimal solution. The sensitivity of operational strategies to OWFs size, failure rate of major components and weather conditions have been examined. A multivariate Auto-Regressive climate model were used. This methodology maintains seasonality and correlation between wind and wave time series. However the model fail to capture outliers and data behavior over 17 $m/s$.
-
-
-\cite{Hagen2013} and \cite{scheu2012} developed  a multivariate stochastic weather models in order to generate sea state time series based on observed time series or historical data and validated for Simulation of O\&M in Offshore Wind Farms. 
-
-
-Typian et al. provided a comparison study of two different mathematical methods for estimating weather downtime and operation times using the Markov Theory and Monte Carlo Simulation, \cite{Tyapin2011}. However this approach is limited to one offshore wind turbine and focuses on operation control.
-
-
-
-
-A real scheduling approach was given by \cite{Scholz2010}, who developed a heuristic for the scheduling of offshore installation processes. The current weather situations as well as transport capacity limits of the installation vessel were considered.
-
-
-
-\cite{ISOPE2012} presented a further going approach for offshore scheduling, which also integrated the inventory control and supply of the installation port.
-
-
-
-
-\cite{Hofmann2014} ...pointed out that simulation helps to quantify the cost of Operation \& Maintenance  and also indicated that larger wind turbines can lead to lower O\&M costs.It was also concluded that higher failure rates and maintenance durations quite fast will counterbalance the benefits of larger wind turbines. Already a simultaneous increase of failure rates and maintenance durations by 25 \% will lead to higher O\&M cost for a wind farm with 10 MW wind turbines compared to a 5 MW turbine wind farm. 
-
-
-
-The problem of offshore maintenance scheduling was treated by \cite{Kovacs2011497}, who developed a mixed-integer program (MIP), which constituted a module of an integrated framework for condition monitoring, diagnosis and maintenance. The idea of this approach is to find the best time for maintenance operations in relation to performance of the wind turbine and the availability of
-the service capacities.
-\cite{ISOPE2012} presented a further going approach for offshore scheduling, which also integrated the inventory control and supply 
-of the installation port.
-\cite{Hofmann2014} ...pointed out that simulation helps to quantify the cost of Operation \& Maintenance  and also indicated that 
-larger wind turbines can lead to lower O\&M costs.It was also concluded that higher failure rates and maintenance durations quite 
-fast will counterbalance the benefits of larger wind turbines. Already a simultaneous increase of failure rates and maintenance 
-durations by 25 \% will lead to higher O\&M cost for a wind farm with 10 MW wind turbines compared to a 5 MW turbine wind farm. 
-
-
-The planning and scheduling problem of OWFs considering weather data belongs to the NP-hard problems (Non-deterministic Polynomial-time hard), \cite{leeuwen1990}. It explains why no suitable planning tools for the installation of offshore equipments has been introduced in the literature up to now. 
-
-Nevertheless, models in literature show some interesting aspects to the installation planning of OWFs using statistical approaches, but do not consider real weather data. The present paper, unlike other research work, presents a DES of the installation of OWFs that is using real weather data of a specific site. This makes the results of the simulation way more precise and allows to validate other simulations results that are using imprecise seasonal weather forecasts. Since the methodology rely on real weather data, the planning tool may be used during the operational phase of constructing or operating a wind farm. Thus it would be used as a day to day simulator in order to support real-time decisions.
 
 %State the importance of your study
 \textbf{Importance} --
@@ -51,46 +7,5 @@ In consequence, the development of sustainable installation procedures taking in
 \textbf{Purpose} --
 In this paper, a Discrete Event Simulation (DES) of OWFs installation has been developed using weather dependant transport and installation at sea. The originality of the model is to use real offshore weather data in order to quantify accurately the transport and installation risks of an European specific site.Probablistic approach has also been included in the analysis.
 
-
->>>>>>merge with vessel for the future document SEE FOLOWING
-The objective of the research activities is to enhance the current simulation tools to provide a well- defined maritime logistics planning for the
-construction of various types of offshore facilities (e.g. wind turbine installations). The installation of offshore facilities is very costly and any
-interruption along its supply chain could cause a big impact on the overall operation. Hence having a well- organized transporting and installation
-system is very crucial for the offshore industry that can be supported very well with the development of tools taking into account all the variables
-including distance between ports and installation sites, wind speed, wave height and sea state parameters. The simulation tools will integrate all
-the parameters (actors) pertaining in the offshore wind energy development system (contractor, ports, electric companies, various
-manufacturers, shipping co., etc.), which will be useful to perform a robust multi-criteria simulation to derive comprehensive deployment and
-installation strategies.
-The potential of wind energy increases as one goes far from the coast line, therefore implying deeper water depth, higher power turbines, and
-stronger foundations to support the turbine components. This will further complicate the logistic operations of the offshore wind energy systems,
-which requires special purpose vessels with a higher deck capacity to transport the components (turbine components and foundation). At the
-same time cranes with good lifting capacity should also be available in order to carry out the lifting and installation operations as safe as possible
-without compromising the safety of the crew on board. Special installation approaches have to be developed and simulated for floating offshore
-WT. The weather plays a critical role in offshore wind energy systems, creating a lot of uncertainties in the logistic system and the foundations
-design (ground based or floating). There are usually seven components that make up one complete wind turbine: Lower Tower, Upper Tower,
-Nacelle, Hub, and 3 Blades. Whether or not these are pre-assembled, or transported separately (assembly scenario), it has an impact in terms of
-vessel's deck space usage, crane lift requirement, and installation capability. It will also affect the time necessary to transport and install the
-turbine components taking into account the suitable weather (time) windows defined by the acceptable wind speed , wave height and sea state.
-Current practices to establish the long term planning to build an offshore structure is based on statistical data. However, statistical data is
-insufficient for the long term planning process since it does not account for the weather factors which have major effect on all offshore
-operations. According to today’s knowledge, there is no specific tool available to perform simulation to explicitly consider the scattering
-(randomness) of many parameters (e.g. meteocean parameters, availability ratio of mono hull vessels and jack-ups, fatigue and stress of
-maintenance crew, etc) and to simulate various scenarios regarding the deployment strategy of offshore wind systems. This causes a large
-uncertainty on the timeframe of the installation process so the date of delivery cannot be predicted. Therefore, the risk can only be controlled by
-taking some safety margin which results in higher deployment and installation costs and/or a longer duration, which are not compatible with the
-development of large offshore wind parks. However, no tools are available that enable developers to perform a robust multi-criteria simulation to
-derive comprehensive deployment and installation strategies.
-To avoid supply chain bottlenecks and to provide an effective decision support tool, an integrated and comprehensive simulation platform tool
-of the fixed and floating offshore wind turbine installation (as well as other types of installation), covering the whole lifecycle of an offshore wind
-park installation that takes into account real weather data, is required.
-The development of the simulation tool requires information and existing logistics strategy from the relevant industry. Hence the research has to
-be carried out in close collaboration with industries, through which verification and validation of inputs during the process of developing the tool
-and the final results have also be validated if it is in accordance with the reality in the practical offshore logistics operations. The collaboration
-between industry and research institutions during the research will provide an opportunity to develop a well- structured and practical simulation
-tool through which improvement and validation of the model can be made at different phases during the research timeline taking in to account
-the best practices from the industry.
-In conclusion the main aim of the simulation tools for offshore logistics is to assess and compare different strategies for off-shore transhipment
-(like ship to ship, ship to floating platform…), wind farm deployment, etc. Demonstration of the performance of the innovative integrated
-simulation tools will be carried out using actual environment data, and actual scenarios of installation.
 
 ADD reference from Stracklyde
