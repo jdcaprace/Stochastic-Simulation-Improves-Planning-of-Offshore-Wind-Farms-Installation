@@ -2,6 +2,7 @@ Introduction_.tex
 section_Reviewer_comments_1_References__.tex
 section_Introduction__.tex
 Contextualization_Present_the_research_field__.tex
+textbf_Gap_State_the_gap__.tex
 Show_the_state_of_the__.tex
 begin_table_label_tab_typicalcost__.tex
 section_Justification_of_the_research__.tex
