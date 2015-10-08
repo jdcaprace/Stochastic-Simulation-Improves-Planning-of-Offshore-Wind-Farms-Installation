@@ -9,7 +9,6 @@ Show_the_state_of_the__.tex
 State_the_importance_of_your__.tex
 State_the_purpose_of_the__.tex
 figures/Map1/Map1.png
-section_Challenges_of_offshore_wind__.tex
 subsection_Wind_turbine_components_An__.tex
 subsection_Stochastic_weather_conditions_Another__.tex
 subsection_Disturbance_of_the_material__.tex
