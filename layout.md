@@ -9,7 +9,7 @@ Show_the_state_of_the__.tex
 State_the_importance_of_your__.tex
 State_the_purpose_of_the__.tex
 figures/Map1/Map1.png
-subsection_Wind_turbine_components_An__.tex
+In_this_paper_one_jacket__.tex
 subsection_Stochastic_weather_conditions_Another__.tex
 subsection_Disturbance_of_the_material__.tex
 subsection_Methodology_The_development_of__.tex
