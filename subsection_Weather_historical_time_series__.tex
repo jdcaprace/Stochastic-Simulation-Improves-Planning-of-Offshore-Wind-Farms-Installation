@@ -1,6 +1,11 @@
 \subsection{Weather historical time series}
 The time series of wind speed and wave height has been used in the simulation model to quantify the total completion time of an OWF including 60 OWTs. Wind speed was measured every 10 minutes at 10 meters of altitude in two perpendicular directions and wave height every 30 minutes. Data have been recorded from January 1995 and December 2008. In order to have coherence between the time intervals, wave height measurements has been linearly interpolated every 10 minutes.
 
+\begin{equation}
+u = u_r \right( \frac{z}{z_r} \left)^\alpha
+\end{equation}
+
+
 A new simulation run is created for each month from 1995 until to 2006. The starting date of the project has been assumed to be the first day of each month. Thus, it represents 12 simulations per month what is mean 144 simulations in total. Therefore, the average lead time ($\mu$) and standard deviation ($\sigma$) is deduced from the 12 points available for each month.
 
 Fig. \ref{fig:comparison} shows the influence of the starting date of the project on the mean lead time ($\mu$) of the installation of 60 OWT measured in days between the start of pilling activity of the first OWT until the completion of an OWF containing 60 units. Shaded area shows the standard deviation limits ($\sigma$), i.e. $\mu + \sigma$ and $\mu - \sigma$. It is observed that the standard deviation is presenting a high variability along the year with the minimum value during the summer in August (50 days) and the maximum value at beginning of Autumn in October (94 days). That gives an insight how the weather play a significant role in the offshore wind turbine installation operations.
