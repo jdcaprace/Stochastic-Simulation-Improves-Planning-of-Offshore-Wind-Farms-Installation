@@ -18,6 +18,7 @@ begin_table_label_tab_input__.tex
 begin_table_begin_center_label__.tex
 section_Results_and_discussion_This__.tex
 subsection_Weather_historical_time_series__.tex
+figures/Picture9/Picture9.png
 figures/Picture3/Picture4.png
 subsection_Probabilistic_approach_The_probabilistic__.tex
 figures/Picture2/Picture2.png
