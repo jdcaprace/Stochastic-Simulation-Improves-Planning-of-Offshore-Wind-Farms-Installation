@@ -13,7 +13,7 @@ section_Methodology__.tex
 subsection_Installation_strategies_The_installation__.tex
 subsection_Model_description_In_this__.tex
 figures/SimulationModel/SimulationModel.jpg
-Fig_ref_fig_SimulationModel_presents__.tex
+TODO_Redo_the_figure_of__.tex
 begin_table_begin_center_label__.tex
 begin_table_label_tab_input__.tex
 figures/Picture10/Picture10.png
