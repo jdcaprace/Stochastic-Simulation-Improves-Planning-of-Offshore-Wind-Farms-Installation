@@ -11,7 +11,6 @@ State_the_purpose_of_the__.tex
 figures/Map1/Map1.png
 section_Methodology__.tex
 subsection_Installation_strategies_The_installation__.tex
-Therefore_the_performance_of_the__.tex
 subsection_Model_description_In_this__.tex
 figures/Picture10/Picture10.png
 subsection_Stochastic_weather_conditions_Another__.tex
