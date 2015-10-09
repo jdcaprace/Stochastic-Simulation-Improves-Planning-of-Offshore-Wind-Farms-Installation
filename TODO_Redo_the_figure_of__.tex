@@ -1,6 +1,9 @@
 TODO: Redo the figure of the process workflow
 
-Fig. \ref{fig:SimulationModel} presents the DES workflow that includes assembly, transport and storage processes ????????.
+Fig. \ref{fig:SimulationModel} presents the DES workflow where manufacturing and logistic processes have been implemented.
+
+Each process can be affected by constraints and can use different resources (ships, cranes, storage areas). For instance, the installation of the rotor requires a crane and cannot be done before all the tower sections have been assembled. These constraints are different from one process to another depending on the construction sequences and the work breakdown structure of the product.
+
 Table \ref{tab:times} shows the summary of the mean times of each manufacturing activities that has been implemented in the logistic chain simulation. These activities are stochastic by nature. Hence, Gauss distribution given by equation \ref{eqn:normaldist} have been applied, where $\mu$ is the mean and $\sigma$ the standard deviation. The standard deviation has been defined equal to 10\% of the mean time. A sensitivity analysis showed that this parameter is secondary compared to the influence of the metocean data. 
 
 \begin{equation}
