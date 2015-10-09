@@ -1,4 +1,5 @@
 Introduction_.tex
+subsection_Discrete_Event_Simulation_DES__.tex
 section_Reviewer_comments_2_The__.tex
 section_Introduction__.tex
 Contextualization_Present_the_research_field__.tex
@@ -12,7 +13,6 @@ figures/Map1/Map1.png
 section_Methodology__.tex
 subsection_Installation_strategies_The_installation__.tex
 subsection_Assembly_strategies_The_number__.tex
-subsection_Discrete_Event_Simulation_DES__.tex
 subsection_Stochastic_weather_conditions_Another__.tex
 subsection_Disturbance_of_the_material__.tex
 subsection_Methodology_The_development_of__.tex
