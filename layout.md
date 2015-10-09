@@ -12,6 +12,7 @@ figures/Map1/Map1.png
 section_Methodology__.tex
 subsection_Installation_strategies_The_installation__.tex
 subsection_Assembly_strategies_The_number__.tex
+subsection_Model_description_There_are__.tex
 figures/Picture10/Picture10.png
 subsection_Stochastic_weather_conditions_Another__.tex
 subsection_Disturbance_of_the_material__.tex
