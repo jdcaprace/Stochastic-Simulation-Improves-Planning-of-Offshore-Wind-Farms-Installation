@@ -10,7 +10,7 @@ State_the_importance_of_your__.tex
 State_the_purpose_of_the__.tex
 figures/Map1/Map1.png
 section_Methodology__.tex
-subsection_Installation_and_assembly_strategies__.tex
+subsection_Installation_strategies_The_installation__.tex
 In_this_paper_one_jacket__.tex
 subsection_Stochastic_weather_conditions_Another__.tex
 subsection_Disturbance_of_the_material__.tex
