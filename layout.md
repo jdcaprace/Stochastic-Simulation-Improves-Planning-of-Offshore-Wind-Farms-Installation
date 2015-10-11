@@ -17,7 +17,7 @@ TODO_Redo_the_figure_of__.tex
 subsection_Stochastic_weather_conditions_Another__.tex
 begin_table_begin_center_label__.tex
 begin_table_label_tab_ressources__.tex
-subsection_Two_approaches__.tex
+subsection_Two_approaches_The_time__.tex
 figures/Picture10/Picture10.png
 section_Results_and_discussion_This__.tex
 subsection_Weather_historical_time_series__.tex
