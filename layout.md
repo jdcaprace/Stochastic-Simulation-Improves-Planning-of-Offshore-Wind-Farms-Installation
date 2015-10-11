@@ -11,7 +11,7 @@ figures/Map1/Map1.png
 section_Methodology__.tex
 subsection_Installation_strategies_The_installation__.tex
 subsection_Model_description_In_this__.tex
-figures/SimulationModel/Picture11.png
+figures/SimulationModel/Picture12.png
 Fig_ref_fig_SimulationModel_presents__.tex
 subsection_Stochastic_weather_conditions_Another__.tex
 begin_table_begin_center_label__.tex
