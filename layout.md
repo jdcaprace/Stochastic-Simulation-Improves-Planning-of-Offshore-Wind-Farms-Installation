@@ -31,5 +31,5 @@ figures/Picture6/Picture8.png
 subsection_Effect_of_the_number__.tex
 figures/Picture5/Picture7.png
 A_closer_look_at_the__.tex
-figures/Turbineincreament/Turbineincreament.png
+figures/Turbineincreament/Picture12.png
 section_Conclusions_Various_projects_of__.tex
