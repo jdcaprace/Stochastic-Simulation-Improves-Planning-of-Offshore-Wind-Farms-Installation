@@ -20,7 +20,7 @@ begin_table_label_tab_ressources__.tex
 subsection_Two_approaches_Time_series__.tex
 figures/Picture10/Picture10.png
 section_Results_and_discussion_This__.tex
-subsection_Aproach_1_Deterministic_A__.tex
+subsection_Aproach_1_Deterministic_workability__.tex
 figures/Picture9/Picture9.png
 figures/Picture3/Picture4.png
 subsection_Aproach_2_Probabilistic_workability__.tex
