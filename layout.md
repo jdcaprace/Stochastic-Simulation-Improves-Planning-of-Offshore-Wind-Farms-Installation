@@ -23,7 +23,7 @@ section_Results_and_discussion_This__.tex
 subsection_Aproach_1_A_new__.tex
 figures/Picture9/Picture9.png
 figures/Picture3/Picture4.png
-subsection_Probabilistic_approach_The_probabilistic__.tex
+subsection_Aproach_2_Probabilistic_The__.tex
 figures/Picture2/Picture2.png
 figures/Picture1/Picture1.png
 subsection_Effect_of_installation_strategies__.tex
