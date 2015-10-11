@@ -20,7 +20,7 @@ begin_table_label_tab_ressources__.tex
 subsection_Two_approaches_Time_series__.tex
 figures/Picture10/Picture10.png
 section_Results_and_discussion_This__.tex
-subsection_Weather_historical_time_series__.tex
+subsection_Aproach_1_A_new__.tex
 figures/Picture9/Picture9.png
 figures/Picture3/Picture4.png
 subsection_Probabilistic_approach_The_probabilistic__.tex
