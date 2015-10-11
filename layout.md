@@ -19,7 +19,6 @@ begin_table_begin_center_label__.tex
 begin_table_label_tab_ressources__.tex
 subsection_Two_approaches__.tex
 figures/Picture10/Picture10.png
-subsection_Methodology_The_development_of__.tex
 section_Results_and_discussion_This__.tex
 subsection_Weather_historical_time_series__.tex
 figures/Picture9/Picture9.png
