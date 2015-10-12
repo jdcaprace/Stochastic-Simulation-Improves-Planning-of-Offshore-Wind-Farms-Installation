@@ -21,6 +21,7 @@ figures/Picture10/Picture10.png
 section_Results_and_discussion_This__.tex
 subsection_Aproach_1_Deterministic_workability__.tex
 figures/Picture9/Picture15.png
+figures/Picture16/Picture16.png
 figures/Picture3/Picture4.png
 subsection_Aproach_2_Probabilistic_workability__.tex
 figures/Picture2/Picture2.png
