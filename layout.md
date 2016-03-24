@@ -1,5 +1,6 @@
 Introduction_.tex
 begin_keyword_Maximum_five_T__.tex
+begin_highlights_begin_itemize_item__.tex
 section_Introduction__.tex
 Contextualization_Present_the_research_field__.tex
 begin_table_label_tab_typicalcost__.tex
