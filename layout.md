@@ -11,6 +11,7 @@ State_the_importance_of_your__.tex
 State_the_purpose_of_the__.tex
 textbf_Outline_The_outline_of__.tex
 figures/Map1/Map1.png
+section_Previews_works_coupling_DES__.tex
 Show_the_state_of_the__.tex
 section_Methodology_label_method__.tex
 subsection_Installation_strategies_The_installation__.tex
