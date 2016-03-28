@@ -18,7 +18,7 @@ In_this_study_a_Discrete__.tex
 subsection_Installation_strategies_The_installation__.tex
 figures/SimulationModel/Picture12.png
 subsection_Assembly_strategy_In_this__.tex
-Each_process_can_be_affected__.tex
+Each_assembly_process_can_be__.tex
 subsection_Stochastic_weather_conditions_Another__.tex
 begin_table_begin_center_label__.tex
 begin_table_label_tab_ressources__.tex
