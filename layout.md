@@ -10,6 +10,7 @@ figures/WindTurbineComponents/WindTurbineComponents.jpg
 State_the_importance_of_your__.tex
 State_the_purpose_of_the__.tex
 figures/Map1/Map1.png
+pragraph_textbf_Outline_The_outline__.tex
 Show_the_state_of_the__.tex
 section_Methodology__.tex
 subsection_Installation_strategies_The_installation__.tex
