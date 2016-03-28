@@ -12,7 +12,7 @@ State_the_purpose_of_the__.tex
 textbf_Outline_The_outline_of__.tex
 figures/Map1/Map1.png
 Show_the_state_of_the__.tex
-section_Methodology__.tex
+section_Methodology_label_method__.tex
 subsection_Installation_strategies_The_installation__.tex
 subsection_Model_description_In_this__.tex
 figures/SimulationModel/Picture12.png
