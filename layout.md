@@ -11,6 +11,7 @@ Show_the_state_of_the__.tex
 State_the_importance_of_your__.tex
 State_the_purpose_of_the__.tex
 figures/Map1/Map1.png
+section_Existing_work_coupling_DES__.tex
 section_Methodology__.tex
 subsection_Installation_strategies_The_installation__.tex
 subsection_Model_description_In_this__.tex
