@@ -14,6 +14,7 @@ figures/Map1/Map1.png
 section_Previews_works_coupling_DES__.tex
 Show_the_state_of_the__.tex
 section_Methodology_label_method__.tex
+In_this_study_a_Discrete__.tex
 subsection_Installation_strategies_The_installation__.tex
 subsection_Model_description_In_this__.tex
 figures/SimulationModel/Picture12.png
