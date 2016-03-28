@@ -9,8 +9,8 @@ textbf_Gap_State_the_gap__.tex
 figures/WindTurbineComponents/WindTurbineComponents.jpg
 State_the_importance_of_your__.tex
 State_the_purpose_of_the__.tex
-figures/Map1/Map1.png
 textbf_Outline_The_outline_of__.tex
+figures/Map1/Map1.png
 Show_the_state_of_the__.tex
 section_Methodology__.tex
 subsection_Installation_strategies_The_installation__.tex
