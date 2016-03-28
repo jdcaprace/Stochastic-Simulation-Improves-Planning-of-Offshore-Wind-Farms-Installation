@@ -22,7 +22,7 @@ begin_table_begin_center_label__.tex
 begin_table_label_tab_ressources__.tex
 subsection_Two_approaches_Time_series__.tex
 figures/Picture10/Picture10.png
-section_Results_and_discussion_This__.tex
+section_Results_and_discussion_label__.tex
 subsection_Aproach_1_Deterministic_workability__.tex
 figures/Picture9/Picture15.png
 figures/Picture16/Picture17.png
