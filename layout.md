@@ -36,4 +36,4 @@ subsection_Effect_of_the_number__.tex
 figures/Picture5/Picture7.png
 Fig_ref_fig_seasonaleffect_gives__.tex
 figures/Turbineincreament/Picture14.png
-section_Conclusions_Various_projects_of__.tex
+section_Conclusions_label_conclusions_Various__.tex
