@@ -1,14 +1,4 @@
 \subsection{Two approaches}
-Metocean time series of wind speed and wave height has been used in the simulation model to quantify the total completion time of an OWF. Wind speed was measured every 10 minutes at 10 meters of altitude in two perpendicular directions and wave height every 30 minutes. Data have been recorded from January 1995 and December 2008.
-%In order to have coherence between the time intervals, wave height measurements has been linearly interpolated every 10 minutes.
-Fig. \ref{fig:windwave} shows the mean ($\mu$) and standard deviation ($\sigma$) of wind speed and wave height time series.
-The wind profile power law relationship, presented in equation \ref{eqn:windprofile}, is used to estimate the wind speed $u$ at height $z$, when $u_{r}$ is the known wind speed at a reference height $z_{r}$, \cite{Justus_1976, 1978Peterson}. The exponent $\alpha$ is an empirically derived coefficient that varies depending on the stability of the atmosphere, temperature, pressure, humidity, time of the day and terrain roughness. Here this coefficient is taken equal to $0.1$, value recommended over open water surfaces, \cite{WindEnergy2010}.
-
-\begin{equation}
-\label{eqn:windprofile}
-u = u_{r} \left( \frac{z}{z_r} \right)^{\alpha}
-\end{equation}
-
 Two approaches have been considered in the DES. They are differing by the way to use the weather historical time series. In the first one (approach 1 -- Deterministic workability), weather data are directly used in the DES to assess if an activity can be started based on weather window and workability criterion while in the second one (approach 2 -- Probabilistic workability) probabilities to work are previously computed. Approach 1 has the advantage to perform assessments on historical data which allow the calibration of the simulation model based on past projects but does not allow the scheduling of new projects. Contrarely, approach 2 is designed to be used for planning of new projects as it is using working probabilities computed on monthly base. These probabilities to work have been computed for each activity considering the workability and weather window restrictions.
 
 ???? Here the average monthly workability has been implemented in the simulation model. 
