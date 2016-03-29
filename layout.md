@@ -26,9 +26,9 @@ subsection_Discrete_Event_Simulation_DES__.tex
 subsection_Environmental_conditions_Another_aspect__.tex
 subsection_Two_approaches_Two_approaches__.tex
 figures/Picture10/Picture10.png
+figures/Picture9/Picture15.png
 section_Results_and_discussion_label__.tex
 subsection_Aproach_1_Deterministic_workability__.tex
-figures/Picture9/Picture15.png
 figures/Picture16/Picture17.png
 figures/Picture3/Picture4.png
 subsection_Aproach_2_Probabilistic_workability__.tex
