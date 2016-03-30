@@ -29,7 +29,7 @@ figures/Picture9/Picture15.png
 subsection_Operability_of_transport_resources__.tex
 figures/Picture10/Picture10.png
 section_Results_and_discussion_label__.tex
-subsection_Aproach_1_Deterministic_workability__.tex
+subsection_Deterministic_operability_A_new__.tex
 figures/Picture16/Picture17.png
 figures/Picture3/Picture4.png
 subsection_Aproach_2_Probabilistic_workability__.tex
