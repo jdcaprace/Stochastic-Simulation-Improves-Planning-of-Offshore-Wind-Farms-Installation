@@ -18,13 +18,18 @@ f\left(k \vert p \right) = \begin{cases} p & \text{for $k=1$} \\ q=(1-p) & \text
 
 However, the previous explained method can be only applied to independent assembly or transport activities. When there are activities to be carried out one after other using the same resource and without interruption, it requires the implementation of conditional probability. Here, it is the case of the \textit{pile transfer} operation that is conditioned to the end of the \textit{pile transport} operation and the \textit{jacket installation} that is conditioned to the end of the \textit{jacket transport} activity.
 
-In probability theory, \cite{Thalemann2012}, a conditional probability measures the probability of an event given that another event has occurred. Following Kolmogorov definition, given two events $A$ and $B$, the conditional probability of the event $B$ considering that previous event A has occurred is defined as the quotient of the probability of the joint of events $A \cap B$, and the probability of $A$, see equation \ref{eqn:kolmogorov}.
+In probability theory, \cite{Thalemann2012}, a conditional probability measures the probability of an event given that another event has occurred. Following Kolmogorov definition, given two events $A$ and $B$, the conditional probability of the event $B$ considering that previous event A has occurred is defined as the quotient of the probability of the joint of events $A \cap B$, and the probability of $A$, see equation \ref{eqn:kolmogorov}. Therefore, the probability to have two events $A$ and $B$ occurring successively can be assessed by equation ???.
 
 ???Better explain???In this paper, the upper branch of the tree is used in order to compute the workability of two successive activities. For example, considering the pre-pilling phase, the probability of the transport ship to leave the port is first assessed (first activity), then, conditional probability to perform the transfer of piles onto the installation vessel is performed (second activity).
 
 \begin{equation}
 \label{eqn:kolmogorov}
 P \left(B \vert A \right) = \frac{P \left(A \cap B \right)}{P \left( A \right)}
+\end{equation}
+
+\begin{equation}
+\label{eqn:finetti}
+P \left(A \cap B \right) = P \left(B \vert A \right) P \left( A \right)
 \end{equation}
 
 %The tree diagram shown in Fig. \ref{fig:condprob} may represent a series of independent events or conditional probabilities. Each node on the diagram represents an event and is associated with the probability of that event. The root node represents the certain event and therefore has probability 1. Each set of sibling nodes represents an exclusive and exhaustive partition of the parent event. The probability associated with a node is the chance of that event occurring after the parent event occurs. The probability that the series of events leading to a particular node will occur is equal to the product of that node and its parents' probabilities.
