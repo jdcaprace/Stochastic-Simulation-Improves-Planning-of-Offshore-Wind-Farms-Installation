@@ -28,7 +28,6 @@ subsection_Environmental_conditions_Another_aspect__.tex
 figures/Picture9/Picture15.png
 subsection_Operability_of_transport_resources__.tex
 Table_generated_by_Excel2LaTeX_from__.tex
-figures/Picture10/Picture10.png
 section_Results_and_discussion_label__.tex
 subsection_Deterministic_operability_A_new__.tex
 figures/Picture16/Picture17.png
