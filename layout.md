@@ -33,7 +33,6 @@ subsection_Deterministic_operability_By_successively__.tex
 figures/Picture3/Picture20.png
 figures/Picture16/Picture17.png
 subsection_Probabilistic_operability_The_probabilistic__.tex
-subsection_Comparing_deterministic_and_probabilistic__.tex
 figures/Picture2/Picture2.png
 figures/Picture1/Picture1.png
 subsection_Effect_of_installation_strategies__.tex
