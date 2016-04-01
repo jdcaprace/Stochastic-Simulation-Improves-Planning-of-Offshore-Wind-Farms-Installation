@@ -30,8 +30,8 @@ subsection_Operability_of_resources_Two__.tex
 Table_generated_by_Excel2LaTeX_from__.tex
 section_Results_and_discussion_label__.tex
 subsection_Deterministic_operability_By_successively__.tex
-figures/Picture16/Picture17.png
 figures/Picture3/Picture20.png
+figures/Picture16/Picture17.png
 subsection_Probabilistic_operability_The_probabilistic__.tex
 figures/Picture2/Picture2.png
 figures/Picture1/Picture1.png
