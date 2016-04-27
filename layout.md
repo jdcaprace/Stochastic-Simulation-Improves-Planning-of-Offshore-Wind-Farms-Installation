@@ -8,7 +8,7 @@ section_Introduction__.tex
 Contextualization_Present_the_research_field__.tex
 begin_table_label_tab_typicalcost__.tex
 textbf_Gap_State_the_gap__.tex
-figures/WindTurbineComponents/WindTurbineComponents.jpg
+figures/WindTurbineComponents/WindTurbineComponents.png
 State_the_importance_of_your__.tex
 State_the_purpose_of_the__.tex
 textbf_Outline_The_outline_of__.tex
