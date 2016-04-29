@@ -17,7 +17,7 @@ Show_the_state_of_the__.tex
 section_Methodology_label_method__.tex
 In_this_study_a_Discrete__.tex
 subsection_Installation_strategies_The_installation__.tex
-figures/SimulationModel/Picture19.png
+figures/SimulationModel/Picture21.png
 subsection_Assembly_processes_In_this__.tex
 begin_table_begin_center_label__.tex
 subsection_Manufacturing_constraints_Each_assembly__.tex
