@@ -12,7 +12,6 @@ figures/WindTurbineComponents/WindTurbineComponents.png
 State_the_importance_of_your__.tex
 State_the_purpose_of_the__.tex
 textbf_Outline_The_outline_of__.tex
-figures/Map1/Map1.png
 section_Previews_works_coupling_DES__.tex
 Show_the_state_of_the__.tex
 section_Methodology_label_method__.tex
@@ -30,6 +29,7 @@ figures/Picture9/Picture15.png
 subsection_Operability_of_resources_Two__.tex
 Table_generated_by_Excel2LaTeX_from__.tex
 section_Results_and_discussion_label__.tex
+figures/Map1/Map1.png
 subsection_Deterministic_operability_By_successively__.tex
 figures/Picture3/Picture20.png
 figures/Picture16/Picture17.png
